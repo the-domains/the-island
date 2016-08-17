@@ -1,0 +1,14 @@
+layout_spectrum: 0.7222222
+color:
+  saturation: 0.1433692
+  brandStrength: 0.960524
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#0E130F'
+    - '#4A4A4C'
+    - '#71604A'
+    - '#80765B'
+  rhythmicContrast: 0.5663083
+typography_spectrum: 0.9139785
+name: The Island
